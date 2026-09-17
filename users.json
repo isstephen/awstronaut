@@ -2238,7 +2238,8 @@
     "certs": [
       "awstronaut"
     ],
- 	  "country": "New Zealand",
+ 	  "city": "Wellington",
+    "country": "New Zealand",
  	  "date": "2026-09-17",
     "bio": "Cloud/Data/AI Engineer @Bank of New Zealand | 12x AWS Certified",
   	"linkedin": "stephen-yang",
